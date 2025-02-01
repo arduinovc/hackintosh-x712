@@ -39,22 +39,6 @@ __Laptop ASUS Vivobook X712__
 
 System Product Name : 
 System Serial :  
-
-## Working and Not-Working
-
-### Working
-
-### Working with issue
-  
-### Not-Working
-   
-## Screenshots
-  
-### macOS Sequoia 15.1.1  
-![Toshiba Tecra Z50 Sequoia](/Assets/Sequoia.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 SystemInfo](/Assets/Sequoia-SystemInfo.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 SystemSettings](/Assets/Sequoia-SystemSettings.png "Toshiba Tecra Z50")
-![Toshiba Tecra Z50 Passwords](/Assets/Sequoia-Passwords.png "Toshiba Tecra Z50")
   
 ## Work to do
 
